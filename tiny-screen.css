@@ -1,0 +1,15 @@
+@media (max-width: 400px)
+{
+  .banner {
+    height: 30vh;
+  }
+
+  .banner-label {
+    bottom: 10px;
+    right: 10px;
+  }
+
+  .location {
+    height: auto;
+  }
+}
